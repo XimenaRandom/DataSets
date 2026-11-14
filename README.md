@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34839296/README.md)
+## READ ME
 
 Trabajo de **Tecnologías Emergentes I** (Unidad 3: Big Data y Herramientas Esenciales).
 Este reto carga `netflix_clean.csv` en HDFS y cuenta, con Hadoop Streaming y Python, en cuántos títulos distintos participa cada actor.
